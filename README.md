@@ -1,1 +1,1 @@
-# Vendor_Performance_Analysis
+Data Analysis project on Vendor Performance using Python, Pandas, and data visualization. Analyzed sales, vendor profitability, inventory turnover, bulk purchasing, and pricing strategies to identify business insights and optimize performance.
