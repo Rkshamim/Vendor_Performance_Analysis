@@ -35,9 +35,11 @@ End-to-end data analytics project evaluating **10,692 vendor records** to resolv
 ├── README.md                            # Executive project summary
 ├── Vendor_Performance_Report.pdf        # Detailed analytical report
 ├── Vendor_Performance_Dashboard.pbix    # Interactive Power BI dashboard
-├── dataset/
+├── 
 │   └── vendor_sales_summary.csv         # Cleaned dataset (10,692 rows x 18 cols)
 └── notebooks/
-    ├── 01_Data_Cleaning.ipynb           # Missing values & outlier removal
-    ├── 02_Exploratory_Data_Analysis.ipynb # Distributions & correlation matrix
+    ├── 01_Exploratory Data Analysis.ipynb        
+    ├── 02-get_vendor_summary.ipynb
     └── 03_Vendor_Performance_Analysis.ipynb # Segmentation & hypothesis testing
+        04_ingestion_db
+
